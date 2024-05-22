@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mel'S Space</title>
+</head>
+<body>
+    <h1>All about me!</h1>
+    <h2>Let's Start with the Introduction</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit voluptas repudiandae dolorum at, sed ipsum ea nemo nisi aliquid expedita? Adipisci voluptatibus pariatur natus eveniet ab. Provident perspiciatis ullam ex!</p>
+    <h3>First</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit ex natus rem necessitatibus eligendi explicabo. Consequatur vel officiis sint atque tenetur nesciunt corrupti tempore nulla!</p><br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni consectetur quidem consequatur ut voluptatibus, consequuntur distinctio aspernatur quod deleniti dignissimos aliquid unde adipisci fugit. Nihil similique, corrupti eligendi odio rem aut eveniet laborum sequi enim nesciunt illum dolorum ipsam harum quibusdam omnis tempore voluptas quisquam necessitatibus hic temporibus dicta! Corrupti hic deserunt molestias sit atque?</p>
+    <h4>Chemical Equation</h4>
+    <p>C+O<sub>2</sub>&rarr; CO<sub>2</sub></p>
+    <hr>
 
+    <img src="4ced4181-d7ad-4b68-a635-85fc19bc939a.jpeg" alt="bunny" width="455px">
+    <img src="download (3).jpg" alt="mingyu" width="455">
+    <br>
+    <img src="20230128_100608.jpg" alt="bongbongie" width="455"> <br>
+    <img src="✿❀❁room inspo❁❀✿.jpeg" alt="room" width="455">
+    <img src="20220722_094502.jpg" alt="coups" width="455">
+    <img src="https://media.istockphoto.com/id/1404885250/photo/mahabaleshwar-and-panchagani-nature-and-hill-areas.jpg?s=1024x1024&w=is&k=20&c=fQykGjPmlabwiSYYgvanP97qMZD7dT_8v81iGqWdimU=" alt="fall" width="455px">
+</body>
+</html>
